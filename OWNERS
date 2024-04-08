@@ -1,5 +1,6 @@
 reviewers:
   - dougbtv
+<<<<<<< HEAD
   - dcbw
   - squeed
   - zshi-redhat
@@ -11,3 +12,9 @@ approvers:
   - squeed
   - zshi-redhat
   - fepan
+=======
+  - s1061123
+approvers:
+  - dougbtv
+  - s1061123
+>>>>>>> upstream/master
